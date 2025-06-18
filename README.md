@@ -9,4 +9,11 @@
 - **sort_surnames.cpp** — сортировка фамилий
 - **compare_matrices.cpp** — анализ матриц A, B, C
 
+- ## Среда разработки
+
+- Язык: **C++**
+- IDE: **Visual Studio 2022**
+- Платформа: **Windows**
+- Кодировка: **Windows-1251**
+
 
